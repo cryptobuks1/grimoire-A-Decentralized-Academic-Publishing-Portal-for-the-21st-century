@@ -5,7 +5,7 @@ Grimoire: A Decentralized Academic Publishing Portal for the 21st century
 
 I built it as a part of a hackathon but then I felt in love with the tech and I decided to maintain it and make more projects with Arweave's tech which I find insanely cool.
 
-## It is constantly available [here](https://arweave.net/xOFM6ZHz_NJwRHqlYGBx-dRpJFsIy6dl8-tnb8yDPP8).
+## It is constantly available [here](https://arweave.net/_SUE6NfJDaORXpNNGQH7KJGVFUuEdTiNS-TegIvCNLc).
 
 
 ## Project setup
